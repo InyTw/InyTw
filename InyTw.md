@@ -1,5 +1,9 @@
+<div align="center">
+# InyTw
+[Youtube](https://youtube.com/@InyTw87)
+[BoringSRV Discord](https://dsc.gg/boringsrv)
 
-- YT: youtube.com/@InyTw87
-- DC: inytw    ====>     (donʼt spam or send trash message)
-- IG: instagram.com/@inytww87
+> Hi !
+> I am 1000 Subscribes Youtube ! ! !
 
+</div>
