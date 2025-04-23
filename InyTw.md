@@ -1,5 +1,6 @@
 <div align="center">
-# InyTw
+
+  <h1 id=iny>InyTw</h1>
 [Youtube](https://youtube.com/@InyTw87)
 [BoringSRV Discord](https://dsc.gg/boringsrv)
 
