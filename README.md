@@ -18,7 +18,8 @@
 
 ## 🌐 Blog / Website | 部落格 / 網站
 - 🔗 [YouTube / YT](https://youtube.com/@InyTw87)
-- 🔗 [YouTube / YT](https://dsc.gg/BedtwL)
+- 🔗 [BedtwL / Web](https://BedtwL.com)
+- 🔗 [BedtwL / Discord](https://dsc.gg/BedtwL)
 
 ---
 
