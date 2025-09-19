@@ -17,6 +17,7 @@
 ---
 
 ## 🌐 Blog / Website | 部落格 / 網站
+- 🔗 [InyTw Web / Web](https://inytw.github.io/inytw-web)
 - 🔗 [YouTube / YT](https://youtube.com/@InyTw87)
 - 🔗 [BedtwL / Web](https://BedtwL.com)
 - 🔗 [BedtwL / Discord](https://dsc.gg/BedtwL)
@@ -27,10 +28,6 @@
 - [UnNuke SakikoBot](https://github.com/InyTw/UnNuke-Sakiko-Bot)
   - EN: A security bot designed for Discord servers with automated moderation features.  
   - 中文：一個專為 Discord 伺服器打造的防護機器人，整合自動檢測與管理功能。  
-
-- [News Management System](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
-  - EN: A complete website for uploading, editing, and displaying news content.  
-  - 中文：支援新聞上傳、編輯與前台展示的完整網站專案。  
 
 ---
 
