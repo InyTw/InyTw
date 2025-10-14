@@ -1,9 +1,8 @@
 # 👋 Hi, I'm InyTw  
 
 ## 👨‍💻 About Me | 關於我
-- Name / Nickname: **InyTw**  
-- Background: Passionate about backend services, automation tools, and bot development.  
-- 技術背景：熱愛後端服務、自動化工具與機器人開發。  
+- Name / Nickname: **InyTw**   
+- 技術背景：熱愛後端服務、機器人開發。
 - Interests: Discord Bots, Web Development, Server Management, Game Plugins  
 
 ---
@@ -12,7 +11,7 @@
 - **Languages**: JavaScript (Node.js), Python, Java, HTML, CSS
 - **Frameworks / Libraries**: Discord.js, Express, TailwindCSS  
 - **Databases**: MySQL, MongoDB, SQLite、MariaDB
-- **Others**: Git, Docker, Linux, Windows, MacOS
+- **Others**: Git, Linux, Windows
 
 ---
 
@@ -32,5 +31,5 @@
 ---
 
 ## 📫 Contact | 聯絡方式
-- GitHub: [@InyTw](https://github.com/InyTw)  
+- GitHub: [@InyTw](https://github.com/InyTw) 
 - Email: InyTw0913@gmail.com
