@@ -1,18 +1,18 @@
 
-![Your GIF Alt Text](https://imgs.search.brave.com/GVgLn4N8NcjJvHcQIvGNmqzp5Wr0oJinovXKRP3Cpog/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/Z1cxc2hqeVU1WTRB/QUFBTS9zYWtpa28t/c2FraWtvLXRvZ2F3/YS5naWY.gif)
+![Soyolin-Haruhikage](https://media1.tenor.com/m/nEiR0j0fEe4AAAAd/soyo-nagasaki-bang-dream-it%E2%80%99s-mygo.gif)
 
 ## 👨‍💻 About Me | 關於我
-- Name / Nickname: **InyTw**   
-- 技術背景：熱愛後端服務、機器人開發。
-- Interests: Discord Bots, Web Development, Server Management, Game Plugins  
+- Name: **InyTw**   
+- 技術背景：Code Plugins、Discord Bot(Js, Py)。
+- Interests: Discord Bots, Web Development, Server Management, Minecraft Plugins  
 
 ---
 
 ## 🛠 Languages & Tools | 使用的語言與工具
 - **Languages**: JavaScript (Node.js), Python, Java, HTML, CSS
 - **Frameworks / Libraries**: Discord.js, Express, TailwindCSS  
-- **Databases**: MySQL, MongoDB, SQLite、MariaDB
-- **Others**: Git, Linux, Windows
+- **Databases**: MySQL, SQLite、MariaDB
+- **Others**: Git, ArchLinux, Windows, MacOS
 
 ---
 
@@ -21,13 +21,6 @@
 - 🔗 [YouTube / YT](https://youtube.com/@InyTw87)
 - 🔗 [BedtwL / Web](https://BedtwL.com)
 - 🔗 [BedtwL / Discord](https://dsc.gg/BedtwL)
-
----
-
-## 🚀 Featured Projects | 想突顯的專案
-- [UnNuke SakikoBot](https://github.com/InyTw/UnNuke-Sakiko-Bot)
-  - EN: A security bot designed for Discord servers with automated moderation features.  
-  - 中文：一個專為 Discord 伺服器打造的防護機器人，整合自動檢測與管理功能。  
 
 ---
 
