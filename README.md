@@ -1,5 +1,5 @@
 
-![Soyolin-Haruhikage](https://media1.tenor.com/m/nEiR0j0fEe4AAAAd/soyo-nagasaki-bang-dream-it%E2%80%99s-mygo.gif)
+![Soyolin-Haruhikage](https://media1.tenor.com/m/nEiR0j0fEe4AAAAd/soyo-nagasaki-bang-dream-it%E2%80%99s-mygo.gif) ![Soyolin-onegai-saki-chan](https://media1.tenor.com/m/6sjTRiWAMuYAAAAd/soyo-nagasaki-nagasaki-soyo.gif)
 
 ## 👨‍💻 About Me | 關於我
 - Name: **InyTw**   
