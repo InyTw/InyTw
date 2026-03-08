@@ -9,7 +9,7 @@
 ---
 
 ## 🧑‍💻 Minecraft Server STAFF | 目前在做的Minecraft伺服器工作管理員
-### 😎 [ohw.cloud-ip.cc](https://www.ohw.coud-ip.cc) (台灣目前沒人玩的高延遲伺服器)
+### 😎 [ohw.cloud-ip.cc](https://www.ohw.cloud-ip.cc) (台灣目前沒人玩的高延遲伺服器)
 **職位 ➜** 伺服主 | 
 **時間 ➜** 2個月
 #### 負責工作
