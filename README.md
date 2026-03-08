@@ -27,3 +27,5 @@
 ## 📫 Contact | 聯絡方式
 - GitHub: [@InyTw](https://github.com/InyTw) 
 - Email: InyTw0913@gmail.com
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=InyTw&theme=dark&hide_border=true&locale=ja&short_numbers=true)](https://git.io/streak-stats)
