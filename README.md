@@ -9,15 +9,15 @@
 ---
 
 ## 🧑‍💻 Minecraft Server STAFF | 目前在做的Minecraft伺服器工作管理員
-### 😎 `ohw.cloud-ip.cc` (台灣目前沒人玩的高延遲伺服器)
-**職位 ➜** 伺服主 
+### 😎 [ohw.cloud-ip.cc](https://www.ohw.coud-ip.cc) (台灣目前沒人玩的高延遲伺服器)
+**職位 ➜** 伺服主 | 
 **時間 ➜** 2個月
 #### 負責工作
 - 插件 ➜ 自己寫的 KBFFA, ohw-core, ohw-coins, ohw-bedclutch
 - 管理 ➜ 管理伺服器
 - 建築 ➜ 目前沒有...
-### 🔥 `bedtwL.com` (台灣目前多少都有人在玩的低延遲伺服器)
-**職位 ➜** 管理員 (v3 建築師) 
+### 🔥 [bedtwL.com](https://bedtwL.com) (台灣目前多少都有人在玩的低延遲伺服器)
+**職位 ➜** 管理員 (v3 建築師) | 
 **時間 ➜** 2年
 #### 負責工作
 - 管理 ➜ 管理伺服器, 手動 ban 玩家(在伺服器時候)
@@ -28,6 +28,8 @@
 - **Frameworks / Libraries**: Discord.js, Express, TailwindCSS
 - **Databases**: MySQL, SQLite、MariaDB
 - **Others**: Git, ArchLinux, Windows, WSL, Pterodactyl
+
+![Tools](https://skillicons.dev/icons?i=java,python,maven,mysql,vscode,github,bash,linux,docker)
 
 ---
 
