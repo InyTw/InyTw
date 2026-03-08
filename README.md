@@ -31,6 +31,8 @@
 
 ![Tools](https://skillicons.dev/icons?i=java,python,maven,mysql,vscode,github,bash,linux,docker)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=InyTw&theme=dark&hide_border=true&locale=zh_Hant)](https://git.io/streak-stats)
+
 ---
 
 ## 🌐 Blog / Website | 部落格 / 網站
@@ -44,5 +46,3 @@
 ## 📫 Contact | 聯絡方式
 - GitHub: [@InyTw](https://github.com/InyTw) 
 - Email: InyTw0913@gmail.com
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=InyTw&theme=dark&hide_border=true&locale=ja&short_numbers=true)](https://git.io/streak-stats)
