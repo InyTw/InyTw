@@ -8,7 +8,7 @@
 
 ---
 
-## 🧑‍💻 Minecraft Server STAFF | 目前在做的Minecraft伺服器工作管理員
+## 🧑‍💻 我的工作階層
 ### 😎 [ohw.cloud-ip.cc](https://www.ohw.cloud-ip.cc) (台灣目前沒人玩的高延遲伺服器)
 **職位 ➜** 伺服主 | 
 **時間 ➜** 2個月
@@ -16,12 +16,13 @@
 - 插件 ➜ 自己寫的 KBFFA, ohw-core, ohw-coins, ohw-bedclutch
 - 管理 ➜ 管理伺服器
 - 建築 ➜ 目前沒有...
-### 🔥 [bedtwL.com](https://bedtwL.com) (台灣目前多少都有人在玩的低延遲伺服器)
-**職位 ➜** 管理員 (v3 建築師) | 
-**時間 ➜** 2年
+
+### 😎 [小祥音樂](https://www.ohw.cloud-ip.cc/saki_docs.html) (台灣目前沒什麼人在用的音樂機器人)
+**職位 ➜** 創造者 | 
+**時間 ➜** 1年 11個月
 #### 負責工作
-- 管理 ➜ 管理伺服器, 手動 ban 玩家(在伺服器時候)
-- 建築 ➜ PureFFA 地圖, BWFFA 地圖
+- 編寫 ➜ 寫機器人的基本功能&修正錯誤
+- 管理 ➜ 目前無
 
 ## 🛠 Languages & Tools | 使用的語言與工具
 - **Languages**: JavaScript (Node.js), Python, Java, HTML, CSS
@@ -29,7 +30,7 @@
 - **Databases**: MySQL, SQLite、MariaDB
 - **Others**: Git, ArchLinux, Windows, WSL, Pterodactyl
 
-![Tools](https://skillicons.dev/icons?i=java,python,maven,mysql,vscode,github,bash,linux,docker)
+![Tools](https://skillicons.dev/icons?i=java,python,mysql,vscode,github,javascript)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=InyTw&theme=dark&hide_border=true&locale=zh_Hant)](https://git.io/streak-stats)
 
