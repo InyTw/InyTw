@@ -17,12 +17,6 @@
 - 管理 ➜ 管理伺服器
 - 建築 ➜ 目前沒有...
 
-### 😎 [小祥音樂](https://www.ohw.cloud-ip.cc/saki_docs.html) (台灣目前沒什麼人在用的音樂機器人)
-**職位 ➜** 創造者 | 
-**時間 ➜** 1年 11個月
-#### 負責工作
-- 編寫 ➜ 寫機器人的基本功能&修正錯誤
-- 管理 ➜ 目前無
 
 ## 🛠 Languages & Tools | 使用的語言與工具
 - **Languages**: JavaScript (Node.js), Python, Java, HTML, CSS
